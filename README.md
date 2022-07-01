@@ -1,0 +1,2 @@
+# globo
+Simple globe game 
